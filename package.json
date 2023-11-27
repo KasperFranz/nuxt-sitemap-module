@@ -1,6 +1,6 @@
 {
-  "name": "@nuxtjs/sitemap",
-  "version": "2.4.0",
+  "name": "@kasperfranz/nuxt-sitemap-module",
+  "version": "0.1.1",
   "description": "Automatically generate or serve dynamic sitemap.xml for Nuxt projects",
   "keywords": [
     "nuxt",
@@ -11,7 +11,7 @@
     "sitemap.xml",
     "ssr"
   ],
-  "repository": "https://github.com/nuxt-community/sitemap-module",
+  "repository": "https://github.com/KasperFranz/nuxt-sitemap-module",
   "license": "MIT",
   "contributors": [
     {
